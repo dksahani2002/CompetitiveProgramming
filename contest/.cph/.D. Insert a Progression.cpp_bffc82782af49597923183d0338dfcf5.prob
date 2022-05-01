@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\contest\\D. Insert a Progression.cpp","tests":[{"id":1650721110875,"input":"1\n4 10\n1 3 1 2","output":"9\n15\n31\n13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\contest\\D. Insert a Progression.cpp","group":"local","local":true}
