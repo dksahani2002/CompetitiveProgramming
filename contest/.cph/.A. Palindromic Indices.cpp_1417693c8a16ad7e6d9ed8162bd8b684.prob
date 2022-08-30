@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\contest\\A. Palindromic Indices.cpp","tests":[{"id":1653230683939,"input":"3\n3\naba\n8\nacaaaaca\n2\ndd","output":"1\n4\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\contest\\A. Palindromic Indices.cpp","group":"local","local":true}

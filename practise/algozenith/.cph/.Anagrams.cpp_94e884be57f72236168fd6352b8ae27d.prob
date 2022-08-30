@@ -1,0 +1,1 @@
+{"name":"Local: Anagrams","url":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\practise\\algozenith\\Anagrams.cpp","tests":[{"id":1652875397336,"input":"2\nabcd\nbcda\nabcde\nabcdf","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\practise\\algozenith\\Anagrams.cpp","group":"local","local":true}

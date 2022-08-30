@@ -1,12 +1,16 @@
 {
-    "C_Cpp.errorSquiggles": "Enabled",
-    "files.associations": {
-        "iostream": "cpp",
-        "ostream": "cpp",
-        "cmath": "cpp",
-        "complex": "cpp",
-        "cstdlib": "cpp",
-        "random": "cpp",
-        "valarray": "cpp"
-    }
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "cmath": "cpp",
+    "complex": "cpp",
+    "cstdlib": "cpp",
+    "random": "cpp",
+    "valarray": "cpp",
+    "vector": "cpp",
+    "bitset": "cpp",
+    "deque": "cpp",
+    "string": "cpp"
+  }
 }
