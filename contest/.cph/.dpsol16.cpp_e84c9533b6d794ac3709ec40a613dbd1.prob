@@ -1,0 +1,1 @@
+{"name":"Local: dpsol16","url":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\contest\\dpsol16.cpp","tests":[{"id":1663173703654,"input":"4\nAAA\nABBA\nABCDEFG\nCODECRAFT","output":"4\n11\n128\n496"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\contest\\dpsol16.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: two","url":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\practise\\test\\alphagrep\\two.cpp","tests":[{"id":1667229601881,"input":"3\naeiouu\naaeiouxaaeioui\ncuaieuouac","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\practise\\test\\alphagrep\\two.cpp","group":"local","local":true}

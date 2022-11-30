@@ -11,6 +11,8 @@
     "vector": "cpp",
     "bitset": "cpp",
     "deque": "cpp",
-    "string": "cpp"
+    "string": "cpp",
+    "iomanip": "cpp",
+    "iosfwd": "cpp"
   }
 }

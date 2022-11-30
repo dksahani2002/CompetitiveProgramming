@@ -1,0 +1,1 @@
+{"name":"Local: az3","url":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\contest\\az3.cpp","tests":[{"id":1663668477123,"input":"5\n1 2 15\n1 3 10\n2 4 20\n2 5 25\n2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Durgeshwar\\OneDrive\\Desktop\\cpp\\contest\\az3.cpp","group":"local","local":true}
